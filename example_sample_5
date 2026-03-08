@@ -1,0 +1,71 @@
+PHISHING EMAIL SAMPLE ANALYSIS – SAMPLE 5
+
+Subject:
+Flipkart Order Payment Confirmation
+
+Sender Email:
+billing@flipkart.com
+
+Greeting:
+Dear Customer,
+
+
+EMAIL MESSAGE
+
+Thank you for your recent purchase on Flipkart.
+
+Your payment of ₹24,999 has been successfully
+processed for the order placed today.
+
+If you did not authorize this transaction,
+please review your order details immediately
+by clicking the link below:
+
+http://flipkart-order-verification.com
+
+Failure to review this order within 24 hours
+may result in the payment being permanently
+processed.
+
+Thank you for shopping with Flipkart.
+
+Flipkart Billing Department
+
+
+PHISHING INDICATORS IDENTIFIED
+
+1. Suspicious External Link
+The URL "http://flipkart-order-verification.com"
+is not an official Flipkart domain.
+
+2. Urgent Financial Warning
+The email creates panic by mentioning a large
+transaction and asking the user to verify it.
+
+3. Generic Greeting
+The email uses "Dear Customer" instead of the
+user's real name.
+
+4. Verification Through Email Link
+Legitimate companies typically ask users to
+log into their official website rather than
+clicking verification links from emails.
+
+
+EMAIL CLASSIFICATION
+Type: Phishing Email
+Risk Level: HIGH
+
+
+ANALYSIS SUMMARY
+
+This email attempts to impersonate Flipkart and
+trick users into clicking a malicious verification
+link related to a fake purchase.
+
+If the user enters account credentials on the fake
+page, attackers may gain access to the user's
+Flipkart account and personal information.
+
+Users should verify purchases by visiting the
+official Flipkart website or app directly.
