@@ -1,0 +1,70 @@
+PHISHING EMAIL SAMPLE ANALYSIS – SAMPLE 4
+
+Subject:
+Instagram Alert – Unusual Login Attempt
+
+Sender Email:
+insta@gmail.com
+
+Greeting:
+Dear User,
+
+
+EMAIL MESSAGE
+
+We noticed a suspicious login attempt on your
+Instagram account from an unknown device.
+
+For security reasons, your account access may be
+limited until you confirm your identity.
+
+Please verify your account immediately using the
+link below:
+
+http://instagram-security-check.com
+
+If you do not confirm your account within 12 hours,
+your account may be temporarily suspended.
+
+Thank you,
+Instagram Security Team
+
+
+PHISHING INDICATORS IDENTIFIED
+
+1. Unofficial Sender Email
+The sender address "insta@gmail.com" is not an
+official Instagram domain. Legitimate emails from
+Instagram usually come from addresses ending with
+@instagram.com.
+
+2. Generic Greeting
+The email uses "Dear User" instead of addressing
+the recipient by their real username.
+
+3. Urgent Security Message
+The email pressures the user to verify their
+account quickly by threatening account suspension.
+
+4. Suspicious Link
+The link "http://instagram-security-check.com"
+is not an official Instagram domain and could
+redirect users to a fake login page.
+
+
+EMAIL CLASSIFICATION
+Type: Phishing Email
+Risk Level: HIGH
+
+
+ANALYSIS SUMMARY
+
+This email impersonates Instagram and attempts to
+trick users into verifying their account through a
+malicious link. If users enter their credentials on
+the fake website, attackers can steal login details
+and gain unauthorized access to the account.
+
+Users should always verify account alerts by logging
+into Instagram directly through the official app or
+website.
