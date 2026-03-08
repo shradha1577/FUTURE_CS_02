@@ -1,0 +1,69 @@
+PHISHING EMAIL SAMPLE ANALYSIS – SAMPLE 1
+
+Subject:
+PayPal Account Verification Required
+
+Sender Email:
+support@paypa1.com
+
+Greeting:
+Dear Customer,
+
+
+EMAIL MESSAGE
+Your PayPal account has been temporarily limited due
+to suspicious activity detected in your account.
+
+To restore full access, please verify your account
+immediately using the secure link below.
+
+Verification Link:
+http://paypal-security-login.com
+
+Failure to complete verification within 24 hours
+may result in permanent account limitation.
+
+Thank you,
+PayPal Security Team
+
+
+PHISHING INDICATORS IDENTIFIED
+
+1. Fake Sender Domain
+The sender email address "support@paypa1.com" contains
+a spelling manipulation where the letter "l" in PayPal
+is replaced with the number "1". This technique is used
+by attackers to imitate legitimate domains.
+
+2. Generic Greeting
+The email uses "Dear Customer" instead of the user's
+real name. Legitimate services usually address users
+personally.
+
+3. Urgent Language
+The email pressures the recipient to act quickly by
+threatening account limitation within 24 hours.
+
+4. Suspicious Link
+The URL "http://paypal-security-login.com" is not an
+official PayPal domain and may redirect users to a
+fake login page designed to steal credentials.
+
+
+EMAIL CLASSIFICATION
+Type: Phishing Email
+Risk Level: HIGH
+
+
+ANALYSIS SUMMARY
+
+This email attempts to impersonate PayPal and trick
+users into clicking a malicious verification link.
+If the user enters login credentials on the fake
+website, attackers can capture the username and
+password and gain unauthorized access to the
+victim's PayPal account.
+
+Users should always verify the sender domain and
+avoid clicking links in suspicious or unexpected
+emails.
