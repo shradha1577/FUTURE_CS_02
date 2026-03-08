@@ -1,0 +1,75 @@
+PHISHING EMAIL SAMPLE ANALYSIS – SAMPLE 2
+
+Subject:
+Amazon Invoice Payment Confirmation
+
+Sender Email:
+billing@amazon-support.net
+
+Greeting:
+Dear Customer,
+
+
+EMAIL MESSAGE
+
+Thank you for your recent purchase from Amazon.
+
+Your order has been successfully processed and an
+invoice has been generated for the amount of $489.99.
+
+If you did not authorize this purchase, please review
+the invoice immediately by clicking the link below.
+
+View Invoice:
+http://amazon-billing-verification.com/invoice
+
+Failure to review the invoice within 24 hours may
+result in the charge being processed permanently.
+
+Thank you for shopping with us.
+
+Amazon Billing Department
+
+
+PHISHING INDICATORS IDENTIFIED
+
+1. Suspicious Sender Domain
+The sender email "billing@amazon-support.net" is not
+an official Amazon domain. Legitimate Amazon emails
+normally come from domains such as @amazon.com.
+
+2. Generic Greeting
+The message begins with "Dear Customer" instead of
+addressing the user by their real name.
+
+3. Urgency and Fear Tactic
+The email creates pressure by suggesting a large
+payment has been made and must be reviewed quickly.
+
+4. Suspicious Link
+The URL "http://amazon-billing-verification.com"
+is not an official Amazon website and may lead to a
+malicious page designed to steal login credentials.
+
+5. Unexpected Invoice
+Users are often targeted with fake invoices to make
+them panic and click malicious links.
+
+
+EMAIL CLASSIFICATION
+Type: Phishing Email
+Risk Level: HIGH
+
+
+ANALYSIS SUMMARY
+
+This phishing email impersonates Amazon and attempts
+to trick users into clicking a fake invoice link.
+The attacker uses a payment scare tactic to make the
+user believe an unauthorized purchase has occurred.
+
+If the user clicks the link and logs in, their Amazon
+credentials may be captured by the attacker.
+
+Users should verify sender domains and access their
+Amazon account only through the official website.
