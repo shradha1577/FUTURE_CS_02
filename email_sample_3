@@ -1,0 +1,77 @@
+PHISHING EMAIL SAMPLE ANALYSIS – SAMPLE 3
+
+
+Subject:
+Google Security Alert – Suspicious Login Attempt
+
+Sender Email:
+security@google.com
+
+Greeting:
+Dear User,
+
+
+EMAIL MESSAGE
+
+We detected a suspicious sign-in attempt on your Google
+account from an unknown device and location.
+
+For your security, we recommend verifying your account
+information immediately.
+
+Please confirm your identity by visiting the secure
+verification page below:
+
+http://google-account-security-check.com
+
+If you do not verify your account within the next
+12 hours, your account access may be temporarily
+restricted to protect your data.
+
+Thank you for helping us keep your account secure.
+
+Google Security Team
+
+
+PHISHING INDICATORS IDENTIFIED
+
+1. Suspicious Verification Link
+The link "http://google-account-security-check.com"
+is not an official Google domain. Legitimate Google
+security pages normally use domains like
+https://accounts.google.com.
+
+2. Urgent Security Warning
+The email pressures the user to act quickly by
+claiming suspicious login activity and threatening
+account restriction.
+
+3. Generic Greeting
+The message begins with "Dear User" instead of the
+recipient's actual name.
+
+4. External Verification Page
+The email asks the user to verify account details
+through an external link rather than through the
+official Google website.
+
+
+EMAIL CLASSIFICATION
+Type: Phishing Email
+Risk Level: HIGH
+
+
+ANALYSIS SUMMARY
+
+This email attempts to impersonate Google's security
+team to create fear about unauthorized account access.
+The attacker tries to trick the user into clicking a
+malicious verification link.
+
+If the victim enters their Google login credentials on
+the fake website, the attacker can capture the username
+and password and gain unauthorized access to the account.
+
+Users should always verify security alerts by logging
+into their account through the official Google website
+instead of clicking links in emails.
